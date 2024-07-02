@@ -1,0 +1,1 @@
+# DotNet-File-Encrypter-V-2.0-By-MaGeD.Kh
